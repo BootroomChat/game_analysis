@@ -1,0 +1,7 @@
+card,event,event_injurytime_play,event_mins,event_minsec,event_player_id,event_secs,event_team,time_slice_id,time_slice_name,competition,kickoff,match_id,loc_x,loc_y
+yellow,"
+            ",,24,1496,7969,56,309,5,20 - 25,data/epl,2017-09-11 20:00:00 +0100,32934,10.6,13.5
+yellow,"
+            ",0,44,2683,12372,43,309,9,40 - 45,data/epl,2017-09-11 20:00:00 +0100,32934,63.2,67.0
+yellow,"
+            ",,48,2914,544,34,49,10,45 - 50,data/epl,2017-09-11 20:00:00 +0100,32934,95.6,12.7
