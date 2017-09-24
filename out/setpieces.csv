@@ -1,3 +1,2 @@
-event,event_gy,event_gz,event_mins,event_minsec,event_player_id,event_secs,event_team,event_type,event_uid,pass,pass_ex,pass_ey,pass_minsec,pass_player_id,pass_sx,pass_sy,pass_team,time_slice_id,time_slice_name,competition,kickoff,match_id,loc_x,loc_y
-"
-            ",51.7,0.6,76,4607,1174,47,49,corner,1280533834,,95.7,44.8,4605,10560,99.5,0.5,49,16,75 - 80,data/epl,2017-09-11 20:00:00 +0100,32934,97.7,48.7
+gy,gz,mins,minsec,pass,player_id,secs,team,type,uid,competition,kickoff,match_id,loc_x,loc_y
+51.7,0.6,76,4607,,1174,47,49,corner,1280533834,data/epl,2017-09-11 20:00:00 +0100,32934,97.7,48.7
