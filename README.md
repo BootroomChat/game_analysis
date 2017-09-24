@@ -2,13 +2,13 @@
 
 ## Install
 
-1. Install pip(https://pip.pypa.io/en/stable/installing/)
+1. Install [pip](https://pip.pypa.io/en/stable/installing/)
 2. run `pip install -r requirements.txt`
 
 
 ## Input Data Formatt
 
-TODO
+详情见 [Wiki](https://github.com/BootroomChat/game_analysis/wiki/比赛数据字段解释)
 
 ## Run
 
